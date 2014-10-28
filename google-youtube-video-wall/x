@@ -1,0 +1,168 @@
+bower core-elements#^0.4.2      cached git://github.com/Polymer/core-elements.git#0.4.2
+bower core-elements#^0.4.2    validate 0.4.2 against git://github.com/Polymer/core-elements.git#^0.4.2
+bower geo-location#~0.0.5       cached git://github.com/ebidel/geo-location.git#0.0.6
+bower geo-location#~0.0.5     validate 0.0.6 against git://github.com/ebidel/geo-location.git#~0.0.5
+bower google-map#~0.3.1         cached git://github.com/GoogleWebComponents/google-map.git#0.3.2
+bower google-map#~0.3.1       validate 0.3.2 against git://github.com/GoogleWebComponents/google-map.git#~0.3.1
+bower google-youtube#~0.0.9     cached git://github.com/GoogleWebComponents/google-youtube.git#0.0.9
+bower google-youtube#~0.0.9   validate 0.0.9 against git://github.com/GoogleWebComponents/google-youtube.git#~0.0.9
+bower paper-elements#^0.4.2     cached git://github.com/Polymer/paper-elements.git#0.4.2
+bower paper-elements#^0.4.2   validate 0.4.2 against git://github.com/Polymer/paper-elements.git#^0.4.2
+bower web-component-tester#^1.1.1           cached git://github.com/Polymer/web-component-tester.git#1.2.0
+bower web-component-tester#^1.1.1         validate 1.2.0 against git://github.com/Polymer/web-component-tester.git#^1.1.1
+bower polymer#^0.4.0                        cached git://github.com/Polymer/polymer.git#0.4.2
+bower polymer#^0.4.0                      validate 0.4.2 against git://github.com/Polymer/polymer.git#^0.4.0
+bower font-roboto#^0.4.0                    cached git://github.com/Polymer/font-roboto.git#0.4.2
+bower font-roboto#^0.4.0                  validate 0.4.2 against git://github.com/Polymer/font-roboto.git#^0.4.0
+bower core-icons#^0.4.0                     cached git://github.com/Polymer/core-icons.git#0.4.2
+bower core-icons#^0.4.0                   validate 0.4.2 against git://github.com/Polymer/core-icons.git#^0.4.0
+bower core-scroll-header-panel#^0.4.0       cached git://github.com/Polymer/core-scroll-header-panel.git#0.4.2
+bower core-scroll-header-panel#^0.4.0     validate 0.4.2 against git://github.com/Polymer/core-scroll-header-panel.git#^0.4.0
+bower paper-button#^0.4.0                   cached git://github.com/Polymer/paper-button.git#0.4.2
+bower paper-button#^0.4.0                 validate 0.4.2 against git://github.com/Polymer/paper-button.git#^0.4.0
+bower paper-checkbox#^0.4.0                 cached git://github.com/Polymer/paper-checkbox.git#0.4.2
+bower paper-checkbox#^0.4.0               validate 0.4.2 against git://github.com/Polymer/paper-checkbox.git#^0.4.0
+bower paper-dialog#^0.4.0                   cached git://github.com/Polymer/paper-dialog.git#0.4.2
+bower paper-dialog#^0.4.0                 validate 0.4.2 against git://github.com/Polymer/paper-dialog.git#^0.4.0
+bower paper-dropdown-menu#^0.4.0            cached git://github.com/Polymer/paper-dropdown-menu.git#0.4.2
+bower paper-dropdown-menu#^0.4.0          validate 0.4.2 against git://github.com/Polymer/paper-dropdown-menu.git#^0.4.0
+bower paper-fab#^0.4.0                      cached git://github.com/Polymer/paper-fab.git#0.4.2
+bower paper-fab#^0.4.0                    validate 0.4.2 against git://github.com/Polymer/paper-fab.git#^0.4.0
+bower paper-icon-button#^0.4.0              cached git://github.com/Polymer/paper-icon-button.git#0.4.2
+bower paper-icon-button#^0.4.0            validate 0.4.2 against git://github.com/Polymer/paper-icon-button.git#^0.4.0
+bower paper-input#^0.4.0                    cached git://github.com/Polymer/paper-input.git#0.4.2
+bower paper-input#^0.4.0                  validate 0.4.2 against git://github.com/Polymer/paper-input.git#^0.4.0
+bower paper-item#^0.4.0                     cached git://github.com/Polymer/paper-item.git#0.4.2
+bower paper-item#^0.4.0                   validate 0.4.2 against git://github.com/Polymer/paper-item.git#^0.4.0
+bower paper-menu-button#^0.4.0              cached git://github.com/Polymer/paper-menu-button.git#0.4.2
+bower paper-menu-button#^0.4.0            validate 0.4.2 against git://github.com/Polymer/paper-menu-button.git#^0.4.0
+bower paper-progress#^0.4.0                 cached git://github.com/Polymer/paper-progress.git#0.4.2
+bower paper-progress#^0.4.0               validate 0.4.2 against git://github.com/Polymer/paper-progress.git#^0.4.0
+bower paper-radio-button#^0.4.0             cached git://github.com/Polymer/paper-radio-button.git#0.4.2
+bower paper-radio-button#^0.4.0           validate 0.4.2 against git://github.com/Polymer/paper-radio-button.git#^0.4.0
+bower paper-radio-group#^0.4.0              cached git://github.com/Polymer/paper-radio-group.git#0.4.2
+bower paper-radio-group#^0.4.0            validate 0.4.2 against git://github.com/Polymer/paper-radio-group.git#^0.4.0
+bower paper-ripple#^0.4.0                   cached git://github.com/Polymer/paper-ripple.git#0.4.2
+bower paper-ripple#^0.4.0                 validate 0.4.2 against git://github.com/Polymer/paper-ripple.git#^0.4.0
+bower paper-shadow#^0.4.0                   cached git://github.com/Polymer/paper-shadow.git#0.4.2
+bower paper-shadow#^0.4.0                 validate 0.4.2 against git://github.com/Polymer/paper-shadow.git#^0.4.0
+bower paper-slider#^0.4.0                   cached git://github.com/Polymer/paper-slider.git#0.4.2
+bower paper-slider#^0.4.0                 validate 0.4.2 against git://github.com/Polymer/paper-slider.git#^0.4.0
+bower paper-tabs#^0.4.0                     cached git://github.com/Polymer/paper-tabs.git#0.4.2
+bower paper-tabs#^0.4.0                   validate 0.4.2 against git://github.com/Polymer/paper-tabs.git#^0.4.0
+bower paper-toast#^0.4.0                    cached git://github.com/Polymer/paper-toast.git#0.4.2
+bower paper-toast#^0.4.0                  validate 0.4.2 against git://github.com/Polymer/paper-toast.git#^0.4.0
+bower paper-toggle-button#^0.4.0            cached git://github.com/Polymer/paper-toggle-button.git#0.4.2
+bower paper-toggle-button#^0.4.0          validate 0.4.2 against git://github.com/Polymer/paper-toggle-button.git#^0.4.0
+bower sampler-scaffold#^0.4.0               cached git://github.com/Polymer/sampler-scaffold.git#0.4.2
+bower sampler-scaffold#^0.4.0             validate 0.4.2 against git://github.com/Polymer/sampler-scaffold.git#^0.4.0
+bower google-apis#~0.3.3                    cached git://github.com/GoogleWebComponents/google-apis.git#0.3.3
+bower google-apis#~0.3.3                  validate 0.3.3 against git://github.com/GoogleWebComponents/google-apis.git#~0.3.3
+bower core-ajax#^0.4.0                      cached git://github.com/Polymer/core-ajax.git#0.4.2
+bower core-ajax#^0.4.0                    validate 0.4.2 against git://github.com/Polymer/core-ajax.git#^0.4.0
+bower core-animated-pages#^0.4.0            cached git://github.com/Polymer/core-animated-pages.git#0.4.2
+bower core-animated-pages#^0.4.0          validate 0.4.2 against git://github.com/Polymer/core-animated-pages.git#^0.4.0
+bower core-animation#^0.4.0                 cached git://github.com/Polymer/core-animation.git#0.4.2
+bower core-animation#^0.4.0               validate 0.4.2 against git://github.com/Polymer/core-animation.git#^0.4.0
+bower core-collapse#^0.4.0                  cached git://github.com/Polymer/core-collapse.git#0.4.2
+bower core-collapse#^0.4.0                validate 0.4.2 against git://github.com/Polymer/core-collapse.git#^0.4.0
+bower core-doc-viewer#^0.4.0                cached git://github.com/Polymer/core-doc-viewer.git#0.4.2
+bower core-doc-viewer#^0.4.0              validate 0.4.2 against git://github.com/Polymer/core-doc-viewer.git#^0.4.0
+bower core-docs#^0.4.0                      cached git://github.com/Polymer/core-docs.git#0.4.2
+bower core-docs#^0.4.0                    validate 0.4.2 against git://github.com/Polymer/core-docs.git#^0.4.0
+bower core-drag-drop#^0.4.0                 cached git://github.com/Polymer/core-drag-drop.git#0.4.2
+bower core-drag-drop#^0.4.0               validate 0.4.2 against git://github.com/Polymer/core-drag-drop.git#^0.4.0
+bower core-drawer-panel#^0.4.0              cached git://github.com/Polymer/core-drawer-panel.git#0.4.2
+bower core-drawer-panel#^0.4.0            validate 0.4.2 against git://github.com/Polymer/core-drawer-panel.git#^0.4.0
+bower core-dropdown#^0.4.0                  cached git://github.com/Polymer/core-dropdown.git#0.4.2
+bower core-dropdown#^0.4.0                validate 0.4.2 against git://github.com/Polymer/core-dropdown.git#^0.4.0
+bower core-dropdown-menu#^0.4.0             cached git://github.com/Polymer/core-dropdown-menu.git#0.4.2
+bower core-dropdown-menu#^0.4.0           validate 0.4.2 against git://github.com/Polymer/core-dropdown-menu.git#^0.4.0
+bower core-field#^0.4.0                     cached git://github.com/Polymer/core-field.git#0.4.2
+bower core-field#^0.4.0                   validate 0.4.2 against git://github.com/Polymer/core-field.git#^0.4.0
+bower core-header-panel#^0.4.0              cached git://github.com/Polymer/core-header-panel.git#0.4.2
+bower core-header-panel#^0.4.0            validate 0.4.2 against git://github.com/Polymer/core-header-panel.git#^0.4.0
+bower core-icon-button#^0.4.0               cached git://github.com/Polymer/core-icon-button.git#0.4.2
+bower core-icon-button#^0.4.0             validate 0.4.2 against git://github.com/Polymer/core-icon-button.git#^0.4.0
+bower core-input#^0.4.0                     cached git://github.com/Polymer/core-input.git#0.4.2
+bower core-input#^0.4.0                   validate 0.4.2 against git://github.com/Polymer/core-input.git#^0.4.0
+bower core-item#^0.4.0                      cached git://github.com/Polymer/core-item.git#0.4.2
+bower core-item#^0.4.0                    validate 0.4.2 against git://github.com/Polymer/core-item.git#^0.4.0
+bower core-layout-grid#^0.4.0               cached git://github.com/Polymer/core-layout-grid.git#0.4.2
+bower core-layout-grid#^0.4.0             validate 0.4.2 against git://github.com/Polymer/core-layout-grid.git#^0.4.0
+bower core-layout-trbl#^0.4.0               cached git://github.com/Polymer/core-layout-trbl.git#0.4.2
+bower core-layout-trbl#^0.4.0             validate 0.4.2 against git://github.com/Polymer/core-layout-trbl.git#^0.4.0
+bower core-list#^0.4.0                      cached git://github.com/Polymer/core-list.git#0.4.2
+bower core-list#^0.4.0                    validate 0.4.2 against git://github.com/Polymer/core-list.git#^0.4.0
+bower core-localstorage#^0.4.0              cached git://github.com/Polymer/core-localstorage.git#0.4.2
+bower core-localstorage#^0.4.0            validate 0.4.2 against git://github.com/Polymer/core-localstorage.git#^0.4.0
+bower core-media-query#^0.4.0               cached git://github.com/Polymer/core-media-query.git#0.4.2
+bower core-media-query#^0.4.0             validate 0.4.2 against git://github.com/Polymer/core-media-query.git#^0.4.0
+bower core-menu#^0.4.0                      cached git://github.com/Polymer/core-menu.git#0.4.2
+bower core-menu#^0.4.0                    validate 0.4.2 against git://github.com/Polymer/core-menu.git#^0.4.0
+bower core-menu-button#^0.4.0               cached git://github.com/Polymer/core-menu-button.git#0.4.2
+bower core-menu-button#^0.4.0             validate 0.4.2 against git://github.com/Polymer/core-menu-button.git#^0.4.0
+bower core-meta#^0.4.0                      cached git://github.com/Polymer/core-meta.git#0.4.2
+bower core-meta#^0.4.0                    validate 0.4.2 against git://github.com/Polymer/core-meta.git#^0.4.0
+bower core-overlay#^0.4.0                   cached git://github.com/Polymer/core-overlay.git#0.4.2
+bower core-overlay#^0.4.0                 validate 0.4.2 against git://github.com/Polymer/core-overlay.git#^0.4.0
+bower core-pages#^0.4.0                     cached git://github.com/Polymer/core-pages.git#0.4.2
+bower core-pages#^0.4.0                   validate 0.4.2 against git://github.com/Polymer/core-pages.git#^0.4.0
+bower core-range#^0.4.0                     cached git://github.com/Polymer/core-range.git#0.4.2
+bower core-range#^0.4.0                   validate 0.4.2 against git://github.com/Polymer/core-range.git#^0.4.0
+bower core-scaffold#^0.4.0                  cached git://github.com/Polymer/core-scaffold.git#0.4.2
+bower core-scaffold#^0.4.0                validate 0.4.2 against git://github.com/Polymer/core-scaffold.git#^0.4.0
+bower core-selection#^0.4.0                 cached git://github.com/Polymer/core-selection.git#0.4.2
+bower core-selection#^0.4.0               validate 0.4.2 against git://github.com/Polymer/core-selection.git#^0.4.0
+bower core-selector#^0.4.0                  cached git://github.com/Polymer/core-selector.git#0.4.2
+bower core-selector#^0.4.0                validate 0.4.2 against git://github.com/Polymer/core-selector.git#^0.4.0
+bower core-shared-lib#^0.4.0                cached git://github.com/Polymer/core-shared-lib.git#0.4.2
+bower core-shared-lib#^0.4.0              validate 0.4.2 against git://github.com/Polymer/core-shared-lib.git#^0.4.0
+bower core-signals#^0.4.0                   cached git://github.com/Polymer/core-signals.git#0.4.2
+bower core-signals#^0.4.0                 validate 0.4.2 against git://github.com/Polymer/core-signals.git#^0.4.0
+bower core-splitter#^0.4.0                  cached git://github.com/Polymer/core-splitter.git#0.4.2
+bower core-splitter#^0.4.0                validate 0.4.2 against git://github.com/Polymer/core-splitter.git#^0.4.0
+bower core-style#^0.4.0                     cached git://github.com/Polymer/core-style.git#0.4.2
+bower core-style#^0.4.0                   validate 0.4.2 against git://github.com/Polymer/core-style.git#^0.4.0
+bower core-tests#^0.4.0                     cached git://github.com/Polymer/core-tests.git#0.4.2
+bower core-tests#^0.4.0                   validate 0.4.2 against git://github.com/Polymer/core-tests.git#^0.4.0
+bower core-toolbar#^0.4.0                   cached git://github.com/Polymer/core-toolbar.git#0.4.2
+bower core-toolbar#^0.4.0                 validate 0.4.2 against git://github.com/Polymer/core-toolbar.git#^0.4.0
+bower core-tooltip#^0.4.0                   cached git://github.com/Polymer/core-tooltip.git#0.4.2
+bower core-tooltip#^0.4.0                 validate 0.4.2 against git://github.com/Polymer/core-tooltip.git#^0.4.0
+bower core-transition#^0.4.0                cached git://github.com/Polymer/core-transition.git#0.4.2
+bower core-transition#^0.4.0              validate 0.4.2 against git://github.com/Polymer/core-transition.git#^0.4.0
+bower web-animations-js#master          not-cached git://github.com/web-animations/web-animations-js.git#master
+bower web-animations-js#master             resolve git://github.com/web-animations/web-animations-js.git#master
+bower chai#1.9.1                            cached git://github.com/chaijs/chai.git#1.9.1
+bower chai#1.9.1                          validate 1.9.1 against git://github.com/chaijs/chai.git#1.9.1
+bower mocha#^1.21.4                         cached git://github.com/visionmedia/mocha.git#1.21.5
+bower mocha#^1.21.4                       validate 1.21.5 against git://github.com/visionmedia/mocha.git#^1.21.4
+bower core-icon#^0.4.0                      cached git://github.com/Polymer/core-icon.git#0.4.2
+bower core-icon#^0.4.0                    validate 0.4.2 against git://github.com/Polymer/core-icon.git#^0.4.0
+bower paper-focusable#^0.4.0                cached git://github.com/Polymer/paper-focusable.git#0.4.2
+bower paper-focusable#^0.4.0              validate 0.4.2 against git://github.com/Polymer/paper-focusable.git#^0.4.0
+bower core-iconset-svg#^0.4.0               cached git://github.com/Polymer/core-iconset-svg.git#0.4.2
+bower core-iconset-svg#^0.4.0             validate 0.4.2 against git://github.com/Polymer/core-iconset-svg.git#^0.4.0
+bower platform#^0.4.0                       cached git://github.com/Polymer/platform.git#0.4.2
+bower platform#^0.4.0                     validate 0.4.2 against git://github.com/Polymer/platform.git#^0.4.0
+bower core-component-page#^0.4.0            cached git://github.com/Polymer/core-component-page.git#0.4.2
+bower core-component-page#^0.4.0          validate 0.4.2 against git://github.com/Polymer/core-component-page.git#^0.4.0
+bower context-free-parser#^0.4.0            cached git://github.com/Polymer/context-free-parser.git#0.4.2
+bower context-free-parser#^0.4.0          validate 0.4.2 against git://github.com/Polymer/context-free-parser.git#^0.4.0
+bower marked-element#^0.4.0                 cached git://github.com/PolymerLabs/marked-element.git#0.4.2
+bower marked-element#^0.4.0               validate 0.4.2 against git://github.com/PolymerLabs/marked-element.git#^0.4.0
+bower prettify-element#^0.4.0               cached git://github.com/Polymer/prettify-element.git#0.4.2
+bower prettify-element#^0.4.0             validate 0.4.2 against git://github.com/Polymer/prettify-element.git#^0.4.0
+bower core-a11y-keys#^0.4.0                 cached git://github.com/Polymer/core-a11y-keys.git#0.4.2
+bower core-a11y-keys#^0.4.0               validate 0.4.2 against git://github.com/Polymer/core-a11y-keys.git#^0.4.0
+bower polymer-test-tools#^0.4.0             cached git://github.com/Polymer/polymer-test-tools.git#0.4.2
+bower polymer-test-tools#^0.4.0           validate 0.4.2 against git://github.com/Polymer/polymer-test-tools.git#^0.4.0
+bower core-iconset#^0.4.0                   cached git://github.com/Polymer/core-iconset.git#0.4.2
+bower core-iconset#^0.4.0                 validate 0.4.2 against git://github.com/Polymer/core-iconset.git#^0.4.0
+bower google-code-prettify#*                cached git://github.com/tcollard/google-code-prettify.git#1.0.3
+bower google-code-prettify#*              validate 1.0.3 against git://github.com/tcollard/google-code-prettify.git#*
+bower web-animations-js#master            checkout master
+bower marked#*                              cached git://github.com/chjj/marked.git#0.3.2
+bower marked#*                            validate 0.3.2 against git://github.com/chjj/marked.git#*
+bower web-animations-js#master            resolved git://github.com/web-animations/web-animations-js.git#6a1c45473f
